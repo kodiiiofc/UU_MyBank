@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мой банк</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_signup">Зарегистрироваться</string>
+    <string name="btn_login">Войти</string>
+    <string name="et_username">Имя пользователя</string>
+    <string name="et_password">Пароль</string>
+    <string name="tv_header">ЗАПЯТАЯ БАНК</string>
+</resources>
